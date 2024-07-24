@@ -47,7 +47,7 @@ export default {
         {
           name: 'FXQuest',
           thumbnail: '/thumbnail/fxquest-thumbnail.png',  // publicフォルダ内の画像パス
-          description: 'WordPress App/FXトレード情報サイト',
+          description: 'WordPress Site/FXトレード情報サイト',
           link: 'https://fxquest-strategy.com'
         },
         // 他のアプリケーション情報もここに追加
