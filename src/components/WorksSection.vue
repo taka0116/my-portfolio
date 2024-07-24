@@ -22,31 +22,31 @@ export default {
       works: [
         {
           name: 'TradeLog',
-          thumbnail: '/tradelog-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/tradelog-thumbnail.png',  // publicフォルダ内の画像パス
           description: 'Rails App./投資トレードログアプリ',
           link: 'https://tradelog-cmso.onrender.com'
         },
         {
           name: 'RecipeGacha',
-          thumbnail: '/recipegacha-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/recipegacha-thumbnail.png',  // publicフォルダ内の画像パス
           description: 'React App/料理レシピ提案アプリ',
           link: 'https://recipegacha.netlify.app'
         },
         {
           name: 'RicinseQuiz',
-          thumbnail: '/licensequiz-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/licensequiz-thumbnail.png',  // publicフォルダ内の画像パス
           description: 'Vue App/資格試験クイズアプリ',
           link: 'https://ricense-quiz.netlify.app'
         },
         {
           name: 'TracaKanteidan',
-          thumbnail: '/tracakanteidan-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/tracakanteidan-thumbnail.png',  // publicフォルダ内の画像パス
           description: 'WordPress Site/トレカ相場情報サイト',
           link: 'https://yugioh-kanteidan.com'
         },
         {
           name: 'FXQuest',
-          thumbnail: '/fxquest-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/fxquest-thumbnail.png',  // publicフォルダ内の画像パス
           description: 'WordPress App/FXトレード情報サイト',
           link: 'https://fxquest-strategy.com'
         },
