@@ -23,7 +23,9 @@ export default {
         { name: 'Rails', description: 'Ruby,Javascript,HTML,CSS' },
         { name: 'React', description: 'Javascript,HTML,CSS' },
         { name: 'Vue', description: 'Javascript,HTML,CSS' },
-        { name: 'WordPress', description: 'PHP,HTML,CSS' }
+        { name: 'WordPress', description: 'PHP,HTML,CSS' },
+        { name: 'Wix', description: 'NoCode' }
+
       
       ]
     }

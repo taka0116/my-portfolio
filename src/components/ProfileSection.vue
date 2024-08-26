@@ -6,7 +6,7 @@
           <img src="/profile.png" alt="Profile Image" class="profile-img">
         </v-avatar>
         <h2>Takayuki Kono</h2>
-        <p>投資系Webマーケターの河野貴幸です。</p>
+        <p>I am a Japanese investment web marketer.</p>
       </v-col>
     </v-row>
   </v-container>

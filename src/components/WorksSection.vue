@@ -22,34 +22,40 @@ export default {
       works: [
         {
           name: 'TradeLog',
-          thumbnail: '/thumbnail/tradelog-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/tradelog-thumbnail.png',  
           description: 'Rails App./投資トレードログアプリ',
           link: 'https://tradelog-cmso.onrender.com'
         },
         {
           name: 'RecipeGacha',
-          thumbnail: '/thumbnail/recipegacha-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/recipegacha-thumbnail.png',  
           description: 'React App/料理レシピ提案アプリ',
           link: 'https://recipegacha.netlify.app'
         },
         {
           name: 'RicinseQuiz',
-          thumbnail: '/thumbnail/licensequiz-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/licensequiz-thumbnail.png',  
           description: 'Vue App/資格試験クイズアプリ',
           link: 'https://ricense-quiz.netlify.app'
         },
         {
           name: 'TracaKanteidan',
-          thumbnail: '/thumbnail/tracakanteidan-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/tracakanteidan-thumbnail.png',  
           description: 'WordPress Site/トレカ相場情報サイト',
           link: 'https://yugioh-kanteidan.com'
         },
         {
           name: 'FXQuest',
-          thumbnail: '/thumbnail/fxquest-thumbnail.png',  // publicフォルダ内の画像パス
+          thumbnail: '/thumbnail/fxquest-thumbnail.png',  
           description: 'WordPress Site/FXトレード情報サイト',
           link: 'https://fxquest-strategy.com'
         },
+        {
+          name: 'Gokuraku',
+          thumbnail: '/thumbnail/gokuraku-thumbnail.png',  
+          description: 'Wix Site/リラクゼーションサロンサイト',
+          link: 'https://taka0116ii.wixsite.com/my-site-8'
+        }
         // 他のアプリケーション情報もここに追加
       ]
     }
